@@ -6,5 +6,5 @@ class Addition:
     def Add(self):
         return (self.firstentry + self.secondentry)
 
-o1 = Addition(10,6)
-print(o1.Add())
+try1 = Addition(10,6)
+print(try1.Add())
